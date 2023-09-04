@@ -1,13 +1,19 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=30A3DC&height=120&section=header"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira%20Code&color=00bfbf&size=35&center=true&vCenter=true&width=1000&height=100&lines=HELLO%2C+MY+NAME+is+Jefferson+Robredio%3B+I'm+29+years+old%3B+I+from+Brazil%2C+but+I+live+in+Portugal%3B+Be+Welcome!+%3A%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira%20Code&color=30A3DC&size=35&center=true&vCenter=true&width=1000&height=100&lines=HELLO%2C+MY+NAME+is+Jefferson+Robredio%3B+I'm+29+years+old%3B+I+from+Brazil%2C+but+I+live+in+Portugal%3B+Be+Welcome!+%3A%29)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Jefersonnrobredio&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Jefferson Luiz Robredio github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jefersonnrobredio&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Jefersonnrobredio&show_icons=true&count_private=true&hide_border=false&title_color=30A3DC&icon_color=30A3DC&text_color=FFF&bg_color=000&border_color=30A3DC" alt="Jefferson Luiz Robredio github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jefersonnrobredio&layout=compact&hide_border=false&title_color=30A3DC&text_color=30A3DC&bg_color=000&border_color=30A3DC" />
+  
+## CONTRIBUTIONS
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Jefersonnrobredio&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 </div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jefersonnrobredio&theme=gotham)
+
+
+
+
 
   
   ### Main skills:
@@ -38,4 +44,4 @@
 <br></div>
   
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=30A3DC&height=120&section=footer"/>
